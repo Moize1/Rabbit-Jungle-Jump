@@ -1,0 +1,6 @@
+{
+  "name": "Robot Jungle Jumper",
+  "description": "A cute mobile-first game featuring a small robot jumping across platforms, collecting coins, and dodging forest spikes with a real-time global leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
